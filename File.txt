@@ -17,6 +17,6 @@ change 4:-> Bug fixed bug 2
 change 5:- for enchanment1 to check 
 conflit changed.
 change 6:- for enchanment1 to check .
-change 7:- push to remote.
+change 7:- Push to remote.
 change 9: - to testq pull operation.
 change 10: - change for bug on remote matser by team mate.
